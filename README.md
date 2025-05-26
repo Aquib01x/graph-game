@@ -71,3 +71,6 @@ To run the project as a JAR, you will need the file ```log2023-01-14 18=13.txt``
 Then, simply execute the JAR and the game will run.
 
 Two image files will be created during the first run of the game.
+
+# Application Overview
+![image](https://github.com/user-attachments/assets/809a51b5-de23-485d-b10f-8612a88f8c11)
