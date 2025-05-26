@@ -1,4 +1,4 @@
-# CS308 Graph Game - Group 30
+# Dijkstra's Graph Game
 
 # Program Description
 
@@ -71,18 +71,3 @@ To run the project as a JAR, you will need the file ```log2023-01-14 18=13.txt``
 Then, simply execute the JAR and the game will run.
 
 Two image files will be created during the first run of the game.
-
-## Authors and acknowledgment
-This project was written by:
-* __Aquib Mohammad__ [MyPlace Link](https://classes.myplace.strath.ac.uk/user/view.php?id=158508&course=15891)
-* __Roland McClane__ [MyPlace Link](https://classes.myplace.strath.ac.uk/user/view.php?id=106325&course=15891)
-
-The project was supervised by:
-* __Dr Feng Dong__ [MyPlace Link](https://classes.myplace.strath.ac.uk/user/view.php?id=152380&course=15891)
-* __Brad Turner__ [MyPlace Link](https://classes.myplace.strath.ac.uk/user/view.php?id=155579&course=15891)
-
-## License
-This project is the property of the University of Strathclyde. Not to be used outside of the course content purposes
-
-## Project status
-This project has reached its terminal stage and is ready to be submitted for grading.
